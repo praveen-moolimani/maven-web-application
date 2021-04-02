@@ -106,7 +106,7 @@
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>mithuntechnologies/repository/wallmart-snapshot/</url>
-	    </snaps65.1.110.95hotRepository>
+	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
